@@ -1,0 +1,23 @@
+@media (max-width: 1536px) {
+    
+}
+@media (max-width: 1280px) {
+    
+}
+@media (max-width: 1024px) {
+    
+}
+@media (max-width: 768px) {
+    .menu{
+        display: flex;
+        color: white;
+        align-self: center;
+        font-size: large;
+    }
+    .nav-links{
+        display: none;
+    }
+}
+@media (max-width: 640px) {
+    
+}
